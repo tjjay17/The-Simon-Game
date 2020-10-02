@@ -8,7 +8,7 @@ The player will then have to click on the color that was just flashed. If the us
 
 # EXAMPLE 
 
-You begin to play, and it flashes blue. 
+You begin to play, and it flashes blue. \n
 Then you hit blue. 
 It then flashes red. 
 You press blue,then red. 
