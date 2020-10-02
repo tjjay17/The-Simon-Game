@@ -8,14 +8,22 @@ The player will then have to click on the color that was just flashed. If the us
 
 # EXAMPLE 
 
-You begin to play, and it flashes blue. \n
+You begin to play, and it flashes blue.
+
 Then you hit blue. 
+
 It then flashes red. 
+
 You press blue,then red. 
+
 Then it flashes green.
+
 You press blue, red then green.
+
 Then it flashes red.
+
 You press blue,red,yellow,green.
+
 YOU LOSE! It was supposed to be blue, red, green, red.
 
 You are essentially just building on the pattern each time.
