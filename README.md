@@ -1,5 +1,6 @@
 # The-Simon-Game (Currently only a desktop version)
 An implementation of the Simon Memory Game.
+https://tjjay17.github.io/The-Simon-Game/
 
 The game starts by prompting a user to press a key to begin.
 It will then flash one of the four colors (Blue, Yellow, Red or Green) and make a sound based on the color.
